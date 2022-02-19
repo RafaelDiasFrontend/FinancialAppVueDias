@@ -11,7 +11,7 @@
         </v-card-title>
         <v-card-text>
           <p>
-            Bora?
+            vamo?
           </p>
           <ul class="d-flex flex-column justify-center">
             <li>Nuxt</li>
