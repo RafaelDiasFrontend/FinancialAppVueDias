@@ -78,14 +78,29 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
+          title: 'Financeiro',
+          to: '/financeiro',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Treinamento',
+          to: '/treinamento',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Cadastre-se',
+          to: '/cadastre-se',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Login',
+          to: '/login',
         },
       ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js',
+      title: 'Dias',
     }
   },
 }
